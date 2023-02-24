@@ -1,5 +1,4 @@
-[![Solved.ac
-thwang26](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
 
 <!--
 **thwang26/thwang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
