@@ -1,4 +1,4 @@
-* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthwang%2Fhit-counter&count_bg=%231E46BE&title_bg=%23555555&icon=&icon_color=%236376FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- * [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthwang%2Fhit-counter&count_bg=%231E46BE&title_bg=%23555555&icon=&icon_color=%236376FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
 
