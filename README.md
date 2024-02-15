@@ -1,4 +1,4 @@
-## Hi! I'm JunHo Choi **@Pragmatism Developer** :)
+## Hi! I'm Taewon Hwang **@Backend Developer** :)
 
 > **Contact**
 
