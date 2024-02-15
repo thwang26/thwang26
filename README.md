@@ -4,6 +4,12 @@
 
 ![Email](https://img.shields.io/badge/htw1203@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)
 
+> **Contributions**
+
+[Baekjoonhub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
+ * [Fix: 백준 문제풀이 후 세부 티어가 포함된 디렉토리로 푸시 되는 에러 해결](https://github.com/BaekjoonHub/BaekjoonHub/pull/241)
+   
+
 > **Tech Stack**
 
 <!-- https://shields.io/ -->
