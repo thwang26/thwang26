@@ -1,19 +1,42 @@
-<!-- * [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthwang%2Fhit-counter&count_bg=%231E46BE&title_bg=%23555555&icon=&icon_color=%236376FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+## Hi! I'm JunHo Choi **@Pragmatism Developer** :)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
+> **Contact**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&langs_count=5&theme=dark)](https://github.com/thwang26/github-readme-stats)
-<!--
-**thwang26/thwang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Email](https://img.shields.io/badge/htw1203@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)
 
-Here are some ideas to get you started:
+> **Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://shields.io/ -->
+
+#### Language
+
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### WEB
+
+Spring Boot
+
+#### DataBase
+
+MySQL, REDIS
+
+#### IDE
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+DataGrip
+
+> **Algorithm Stack**
+
+- Baekjoon Online Judge **[Gold II]**
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
+
+> **Github Contribute**
+
+  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+
+[![Taewon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thwang26&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&langs_count=5&theme=dark)](https://github.com/thwang26/github-readme-stats) -->
