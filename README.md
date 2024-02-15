@@ -14,18 +14,18 @@
 
 #### WEB
 
-Spring Boot
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### DataBase
 
-MySQL, REDIS
+![MySQL](https://img.shields.io/badge/MySql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![REDIS](https://img.shields.io/badge/Redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### IDE
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-DataGrip
+![DataGrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
 
 > **Algorithm Stack**
 
