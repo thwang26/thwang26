@@ -39,10 +39,10 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
 
-> ## **Github Contribute**
+<!-- > ## **Github Contribute** -->
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
-[![Taewon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thwang26&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Taewon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thwang26&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&langs_count=5&theme=dark)](https://github.com/thwang26/github-readme-stats) -->
