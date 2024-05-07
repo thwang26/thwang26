@@ -9,6 +9,9 @@
 [Baekjoonhub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
  * [Fix: 백준 문제풀이 후 세부 티어가 포함된 디렉토리로 푸시 되는 에러 해결](https://github.com/BaekjoonHub/BaekjoonHub/pull/241)
    
+> ## **Blog**
+
+[https://thwang.tistory.com](https://thwang.tistory.com)
 
 > ## **Tech Stack**
 
