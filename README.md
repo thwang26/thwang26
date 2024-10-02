@@ -1,19 +1,19 @@
-## Hi! I'm Taewon Hwang **@Backend Developer** :)
+<div align="center">
 
-> ## **Contact**
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Thwnag26's%20GitHub🌱&fontSize=50)
 
-![Email](https://img.shields.io/badge/htw1203@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)
+<a href="https://github.com/thwnag26"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&layout=compact&theme=buefy&hide_border=true" /></a>
+<br/><br/>
 
-> ## **Contributions**
+### Contributions
 
 [Baekjoonhub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
- * [Fix: 백준 문제풀이 후 세부 티어가 포함된 디렉토리로 푸시 되는 에러 해결](https://github.com/BaekjoonHub/BaekjoonHub/pull/241)
-   
-> ## **Blog**
+<br/>
+[Fix: 백준 문제풀이 후 세부 티어가 포함된 디렉토리로 푸시 되는 에러 해결](https://github.com/BaekjoonHub/BaekjoonHub/pull/241)
+<br/><br/>
 
-[https://thwang.tistory.com](https://thwang.tistory.com)
 
-> ## **Tech Stack**
+### Tech Stack
 
 <!-- https://shields.io/ -->
 
@@ -36,11 +36,19 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
 
-> ## **Algorithm Stack**
+### Algorithm Stack
 
-- Baekjoon Online Judge **[Gold I]**
+Baekjoon Online Judge **[Gold I]**
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
+
+### Blog
+
+[https://thwang.tistory.com](https://thwang.tistory.com)
+
+### Contact
+
+![Email](https://img.shields.io/badge/htw1203@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)
 
 <!-- > ## **Github Contribute** -->
 
@@ -49,3 +57,5 @@
 <!-- [![Taewon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thwang26&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&langs_count=5&theme=dark)](https://github.com/thwang26/github-readme-stats) -->
+
+</div>
