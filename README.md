@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Taewon's%20GitHub🌱&fontSize=50)
 
-<a href="https://github.com/thwang26"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thwang26&layout=compact&theme=buefy&hide_border=true" /></a>
-<br/><br/>
-
 ### Contributions
 
 [Baekjoonhub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
