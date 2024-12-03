@@ -25,7 +25,6 @@
 #### DataBase
 
 ![MySQL](https://img.shields.io/badge/MySql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REDIS](https://img.shields.io/badge/Redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### IDE
 
