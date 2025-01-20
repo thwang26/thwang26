@@ -34,7 +34,7 @@
 
 ### Algorithm Stack
 
-Baekjoon Online Judge **[Gold I]**
+Baekjoon Online Judge
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
 
