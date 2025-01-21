@@ -38,14 +38,6 @@ Baekjoon Online Judge
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=htw1203)](https://solved.ac/htw1203)
 
-### Blog
-
-[https://thwang.tistory.com](https://thwang.tistory.com)
-
-### Contact
-
-![Email](https://img.shields.io/badge/htw1203@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)
-
 <!-- > ## **Github Contribute** -->
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
